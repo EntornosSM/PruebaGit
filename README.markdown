@@ -21,4 +21,4 @@ Contacto
 --------
 
 La pagina de referencia del tutorial se encuentra en [markdown](http://aguasnegras.es/blog/?cat=17). 
-Para cualquier duda puedes contanctarme en tu nombre [SoniaMP](soniamoracia02@gmail.com)
+Para cualquier duda puedes contanctarme en [SoniaMP](soniamoracia02@gmail.com)
